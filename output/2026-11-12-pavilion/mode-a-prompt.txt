@@ -1,0 +1,15 @@
+Use case: transparent motif generation for a two-zone photo-and-patchwork sheet
+Asset type: one isolated text-free hand-stitched patchwork motif with genuine alpha transparency outside the motif
+Primary request: Build a compact fabric-patchwork vignette of the supplied lakeside covered walkway.
+Input images: Image 1 is a subject reference only. Preserve the curved row of dark benches at lower left, the rectangular opening onto the lake with a soft tree line, and the rhythm of the overhead slats; do not reproduce the whole photo, its frame, people's faces, or the doorway.
+Scene/backdrop: genuine transparent RGBA outside the motif; no fabric base, card, panel, paper, colored matte, checkerboard, caption, or page shadow.
+Subject: one compact landscape vignette built from 9-13 broad fabric pieces: a dark cocoa bench silhouette with two or three seat lobes, a warm gray paved band, a sage-olive tree line, a dusty blue lake band, and two thin charcoal slats for the ceiling rhythm; one small muted brick accent from the sunlit wall.
+Style/medium: strictly flat 2D front-facing cut-fabric appliqué; matte cotton and linen with visible weave; the scene is made of cloth, not a drawing with fabric texture; one thin-stripe fabric for the ceiling slats and one quiet gingham or dotted piece for the bench cushion.
+Construction: broad coherent planes, 1-2 flush layers; adjacent light, middle, and dark pieces suggest form but stay perfectly flat; no padding, stuffing, lifted edges, bevels, drop shadows, or plush volume; no confetti fragments.
+Edges: raw fray on the bench and tree-line edges; clean cuts on the slats and lake band; a visible running stitch along the lake horizon and a blanket stitch along the bench contour; thread in warm gray and deep cocoa, slightly uneven spacing.
+Composition/framing: compact landscape vignette, wider than tall, complete inside the canvas with at least 8% empty transparent margin; no clipped bench, leaf, or stitch.
+Lighting: soft late-afternoon daylight; only shallow contact shadows between overlapping pieces.
+Color palette: charcoal, cocoa, warm gray, sage olive, dusty blue, cream, and one muted brick accent; low saturation.
+Text: none.
+Constraints: genuine alpha outside the complete motif; silhouette must read clearly at 90 px wide with crisp cut edges; keep the bench row and lake opening as the two anchors.
+Avoid: fabric base, card, frame, caption, opaque matte, checkerboard, colored halo, digital gradient, glossy vector, photoreal photo fragment, tape, paper craft, 3D relief, padding, stuffing, raised edges, bevel, drop shadow, soft focus, haze, bloom, dense mosaic, perfect machine stitching, watermark, signature, pseudo-text.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fabric Patchwork"
+  short_description: "Create hand-stitched patchwork art from photos or text"
+  default_prompt: "Use $make-fabric-patchwork to build a pale-yellow photo-and-patchwork sheet from this photo, or turn this description into a standalone patchwork artwork."
